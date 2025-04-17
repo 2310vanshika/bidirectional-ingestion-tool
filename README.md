@@ -1,6 +1,5 @@
-:
 
-🔁 Bidirectional ClickHouse & Flat File Ingestion Tool
+#🔁 Bidirectional ClickHouse & Flat File Ingestion Tool
 A web-based ingestion tool built using Java Spring Boot that enables seamless bidirectional data transfer between ClickHouse and Flat File (CSV) formats. Featuring a user-friendly interface, the tool allows selective column ingestion, JWT-based authentication for ClickHouse, and live record count reporting.
 
 🚀 Features
